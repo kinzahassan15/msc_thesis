@@ -1,1 +1,1 @@
-# Non-Destructive Analysis of Wood Surface with Deep Learning Models
+# Utilizing ResNet50 and Convolutional Neural Networks for Tuberculosis Detection in Chest X-Rays: A Deep Learning Approach
